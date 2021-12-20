@@ -1,0 +1,10 @@
+D:\C#\ModelSolution\MainForm\bin\Debug\MainForm.exe.config
+D:\C#\ModelSolution\MainForm\bin\Debug\MainForm.exe
+D:\C#\ModelSolution\MainForm\bin\Debug\MainForm.pdb
+D:\C#\ModelSolution\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+D:\C#\ModelSolution\MainForm\obj\Debug\MainForm.Form1.resources
+D:\C#\ModelSolution\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\C#\ModelSolution\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\C#\ModelSolution\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\C#\ModelSolution\MainForm\obj\Debug\MainForm.exe
+D:\C#\ModelSolution\MainForm\obj\Debug\MainForm.pdb

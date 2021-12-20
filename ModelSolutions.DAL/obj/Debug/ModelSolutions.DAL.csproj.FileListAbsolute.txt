@@ -1,0 +1,15 @@
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\ModelSolutions.DAL.dll
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\ModelSolutions.DAL.pdb
+D:\C#\ModelSolution\ModelSolutions.DAL\obj\Debug\ModelSolutions.DAL.csprojAssemblyReference.cache
+D:\C#\ModelSolution\ModelSolutions.DAL\obj\Debug\ModelSolutions.DAL.csproj.CoreCompileInputs.cache
+D:\C#\ModelSolution\ModelSolutions.DAL\obj\Debug\ModelSolutions.DAL.dll
+D:\C#\ModelSolution\ModelSolutions.DAL\obj\Debug\ModelSolutions.DAL.pdb
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\ModelSolutions.DAL.dll.config
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\EntityFramework.dll
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\ModelTable.dll
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\ModelTable.pdb
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\ModelTable.dll.config
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\EntityFramework.xml
+D:\C#\ModelSolution\ModelSolutions.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\ModelSolution\ModelSolutions.DAL\obj\Debug\ModelSolutions.DAL.csproj.CopyComplete

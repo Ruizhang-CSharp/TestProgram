@@ -1,0 +1,13 @@
+D:\C#\ModelSolution\ModelTable\bin\Debug\ModelTable.dll.config
+D:\C#\ModelSolution\ModelTable\bin\Debug\ModelTable.dll
+D:\C#\ModelSolution\ModelTable\bin\Debug\ModelTable.pdb
+D:\C#\ModelSolution\ModelTable\bin\Debug\EntityFramework.dll
+D:\C#\ModelSolution\ModelTable\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\ModelSolution\ModelTable\bin\Debug\EntityFramework.xml
+D:\C#\ModelSolution\ModelTable\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\ModelSolution\ModelTable\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\C#\ModelSolution\ModelTable\obj\Debug\ModelTable.csprojAssemblyReference.cache
+D:\C#\ModelSolution\ModelTable\obj\Debug\ModelTable.csproj.CoreCompileInputs.cache
+D:\C#\ModelSolution\ModelTable\obj\Debug\ModelTable.csproj.CopyComplete
+D:\C#\ModelSolution\ModelTable\obj\Debug\ModelTable.dll
+D:\C#\ModelSolution\ModelTable\obj\Debug\ModelTable.pdb

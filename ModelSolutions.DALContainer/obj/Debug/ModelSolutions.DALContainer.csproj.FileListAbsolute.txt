@@ -1,0 +1,5 @@
+D:\C#\ModelSolution\ModelSolutions.DALContainer\bin\Debug\ModelSolutions.DALContainer.dll
+D:\C#\ModelSolution\ModelSolutions.DALContainer\bin\Debug\ModelSolutions.DALContainer.pdb
+D:\C#\ModelSolution\ModelSolutions.DALContainer\obj\Debug\ModelSolutions.DALContainer.csproj.CoreCompileInputs.cache
+D:\C#\ModelSolution\ModelSolutions.DALContainer\obj\Debug\ModelSolutions.DALContainer.dll
+D:\C#\ModelSolution\ModelSolutions.DALContainer\obj\Debug\ModelSolutions.DALContainer.pdb

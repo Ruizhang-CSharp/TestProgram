@@ -1,0 +1,6 @@
+D:\C#\ModelSolution\ModelSolutions.Container\bin\Debug\ModelSolutions.Container.dll
+D:\C#\ModelSolution\ModelSolutions.Container\bin\Debug\ModelSolutions.Container.pdb
+D:\C#\ModelSolution\ModelSolutions.Container\obj\Debug\ModelSolutions.BLLContainer.csprojAssemblyReference.cache
+D:\C#\ModelSolution\ModelSolutions.Container\obj\Debug\ModelSolutions.BLLContainer.csproj.CoreCompileInputs.cache
+D:\C#\ModelSolution\ModelSolutions.Container\obj\Debug\ModelSolutions.Container.dll
+D:\C#\ModelSolution\ModelSolutions.Container\obj\Debug\ModelSolutions.Container.pdb

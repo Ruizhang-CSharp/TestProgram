@@ -1,0 +1,15 @@
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\ModelSolutionS.BLL.dll
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\ModelSolutionS.BLL.pdb
+D:\C#\ModelSolution\ModelSolutionS.BLL\obj\Debug\ModelSolutionS.BLL.csprojAssemblyReference.cache
+D:\C#\ModelSolution\ModelSolutionS.BLL\obj\Debug\ModelSolutionS.BLL.csproj.CoreCompileInputs.cache
+D:\C#\ModelSolution\ModelSolutionS.BLL\obj\Debug\ModelSolutionS.BLL.dll
+D:\C#\ModelSolution\ModelSolutionS.BLL\obj\Debug\ModelSolutionS.BLL.pdb
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\ModelSolutions.DAL.dll
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\ModelTable.dll
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\EntityFramework.dll
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\ModelSolutions.DAL.pdb
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\ModelSolutions.DAL.dll.config
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\ModelTable.pdb
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\ModelTable.dll.config
+D:\C#\ModelSolution\ModelSolutionS.BLL\bin\Debug\EntityFramework.xml
+D:\C#\ModelSolution\ModelSolutionS.BLL\obj\Debug\ModelSolutionS.BLL.csproj.CopyComplete

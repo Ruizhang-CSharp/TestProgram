@@ -1,0 +1,6 @@
+D:\C#\ModelSolution\ModelSolutions.IBLL\bin\Debug\ModelSolutions.IBLL.dll
+D:\C#\ModelSolution\ModelSolutions.IBLL\bin\Debug\ModelSolutions.IBLL.pdb
+D:\C#\ModelSolution\ModelSolutions.IBLL\obj\Debug\ModelSolutions.IBLL.csprojAssemblyReference.cache
+D:\C#\ModelSolution\ModelSolutions.IBLL\obj\Debug\ModelSolutions.IBLL.csproj.CoreCompileInputs.cache
+D:\C#\ModelSolution\ModelSolutions.IBLL\obj\Debug\ModelSolutions.IBLL.dll
+D:\C#\ModelSolution\ModelSolutions.IBLL\obj\Debug\ModelSolutions.IBLL.pdb
